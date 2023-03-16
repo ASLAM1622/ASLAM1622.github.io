@@ -1,0 +1,57 @@
+body {
+    background:linear-gradient(#fc00ff, #00dbde) ;
+    font-family:inherit;                              
+    min-height: 100vh; 
+}
+
+
+
+img {
+  width: 500px;
+  border-radius: 40px;                                                                                       
+}
+
+p {
+  width: 500px;
+}
+
+.btn {
+    color:azure;
+    font-size;18px;                                 
+    background:linear-gradient(#FF5F6D,#FFC371);     
+    padding: 10px 50px;                                   
+    text-decoration: none;
+    transition: 0,5;
+    
+}
+.btn:hover {
+  background:#1111d9; 
+}
+
+
+.wrapper {
+    width: 500px;
+    background: white;
+    margin: 0 auto;
+    padding: 50px 200px;
+    border-radius: 70px;
+}
+
+
+.menu__link {
+  text-decoration: none;
+  color: #ff0000;   
+  margin-right: 40px;  
+  font-size:20px;
+   transition: 0,5s; 
+    
+    
+  }
+.menu__link:hover {
+  color:#15ac5a;  
+    
+    
+}
+
+
+
